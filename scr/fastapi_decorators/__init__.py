@@ -1,0 +1,1 @@
+from fastapi_decorators.decorators import authenticate_and_get_user
