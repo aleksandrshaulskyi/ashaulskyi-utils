@@ -1,0 +1,9 @@
+LICENCE
+README.md
+pyproject.toml
+ashaulskyi_utils/__init__.py
+ashaulskyi_utils/decorators.py
+ashaulskyi_utils.egg-info/PKG-INFO
+ashaulskyi_utils.egg-info/SOURCES.txt
+ashaulskyi_utils.egg-info/dependency_links.txt
+ashaulskyi_utils.egg-info/top_level.txt
