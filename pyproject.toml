@@ -1,9 +1,9 @@
 [build-system]
-requires = ["setuptools >= 77.0.3", "fastapi[standard]", "pyjwt"]
+requires = ["setuptools >= 77.0.3", "fastapi[standard] >= 0.116.1", "pyjwt >= 2.10.1"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "ashaulskyi-fastapi-decorators"
+name = "ashaulskyi-utils"
 version = "0.0.1"
 authors = [
   { name="Aleksandr Shaulskyi", email="ashowlsky@gmail.com" },
